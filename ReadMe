@@ -1,0 +1,4 @@
+This project have following commands
+search;;jobsnepal;;keyword;;filename //(keyword and filename are optional)
+search;;merojob;;keyword;;filename //(keyword and filename are optional)
+mail;;abc@domaim.com;;title;;message //(title is optional)
