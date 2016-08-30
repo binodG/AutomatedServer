@@ -1,4 +1,7 @@
 This project have following commands
+open cmd
+type: telnet localhost 9000
+perform either of these command
 search;;jobsnepal;;keyword;;filename //(keyword and filename are optional)
 search;;merojob;;keyword;;filename //(keyword and filename are optional)
 mail;;abc@domaim.com;;title;;message //(title is optional)
